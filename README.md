@@ -1,13 +1,24 @@
-- 👋 Hi, I’m @Muhammadmirzo569
-- 👀 I’m interested in programming, especially web development and JavaScript.
-- 🌱 I’m currently learning JavaScript and CSS at Algoritm Learning Center.
-- 🤝 I’m looking to collaborate on fun and beginner-friendly web projects.
-- 📫 How to reach me: muhammadmirzo569@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m just 11 years old and already building cool things with code!
+# 👋 Salom, men Muhammadmirzo Mirzajanov
+
+💻 Frontend dasturchi | 🚀 O‘rganayotgan texnologiyalar: **Vue.js, React, JavaScript, HTML, CSS**  
+📍 Namangan, Uzbekistan  
+
+---
+
+## 🛠️ Texnologiyalar va vositalar
+- **Frontend**: HTML, CSS, JavaScript, React, Vue.js  
+- **Dizayn**: TailwindCSS, Shadcn/UI  
+- **Version control**: Git, GitHub  
+- **Boshqa**: API bilan ishlash, Responsive design  
+
+---
 
 
-<!---
-Muhammadmirzo569/Muhammadmirzo569 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Hozir o‘rganayotganim
+- Vue.js framework  
+- React bilan SPA yaratish  
+- OpenWeather API bilan ishlash  
+
+
+---
+
